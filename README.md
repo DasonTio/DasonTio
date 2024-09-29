@@ -11,6 +11,9 @@ I'm a full-stack web and mobile developer who enjoys solving issues and turning 
   <a href="https://www.linkedin.com/in/dason-tiovino/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0967C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linked in logo"  />
   </a>
+  <a href="https://www.medium.com/@d4sontiovino" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=1d1d1d&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+  </a>
 </div>
 <br />
 
