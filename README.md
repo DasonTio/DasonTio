@@ -22,6 +22,10 @@ I'm a full-stack web and mobile developer who enjoys solving issues and turning 
 <br />
 
 <div style="clear: both;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DasonTio&" alt="Dason Tiovino" />
+</div>
+
+<div style="clear: both;">
     <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=DasonTio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false" height="150" />
     <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=DasonTio"  height="150">
 </div>
