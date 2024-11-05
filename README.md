@@ -1,5 +1,6 @@
-# 🍙 Dason Tio
 
+![Apple-Banner](https://github.com/user-attachments/assets/fcede73f-48f1-4eb2-b510-d7318b5f1983)
+---
 **`Problem Solver (Developer/Writer)`**
 
 I'm a full-stack web and mobile developer who enjoys solving issues and turning difficulties into effective code. I thrive on creating meaningful, well-crafted software solutions and enjoy sharing my experiences along the journey. Always curious to learn, and contribute to projects that have an impact.
